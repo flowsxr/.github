@@ -28,7 +28,8 @@ Our thesis is simple: the form factor changes, but the need doesn't. Whether it'
 | Project | Description |
 |---|---|
 | **[Talkshot](https://github.com/flowsxr/talkshot)** | Push-to-talk visual notes for macOS — screenshot + voice note capture with on-device transcription, built for feeding rich context to AI coding assistants |
-| **[Sidekick](https://github.com/prasanthsasikumar/sidekick)** | Expert AI assistant for field workers via smart glasses — AI-first, human expert backup when needed |
+| **[Sidekick](https://github.com/flowsxr/sidekick)** | Expert AI assistant for field workers via smart glasses — AI-first, human expert backup when needed |
+| **[SidelineIQ](https://github.com/flowsxr/sidelineiq)** | Real-time AI football coaching on Ray-Ban Meta glasses via Claude Vision + MediaPipe skeleton tracking |
 | **[FlowsXR.com](https://flowsxr.com)** | Company website and research hub — smartglasses landscape analysis, AR/VR market insights, and product showcase |
 
 ### Selected Research & Systems
@@ -37,7 +38,6 @@ Our thesis is simple: the form factor changes, but the need doesn't. Whether it'
 - **[ZenFlow](https://flowsxr.com/zenflow)** — AI-powered immersive wellness through biofeedback-driven VR environments
 - **[SignFlow VR](https://flowsxr.com/signflow-vr)** — VR safety training for construction and industrial environments
 - **[StreetSync](https://flowsxr.com/streetsync)** — Augmented reality navigation for urban accessibility
-- **[SidelineIQ](https://github.com/prasanthsasikumar/sidelineiq)** — Real-time AI football coaching on Ray-Ban Meta glasses via Claude Vision + MediaPipe
 
 ---
 
