@@ -34,7 +34,6 @@ Our thesis is simple: the form factor changes, but the need doesn't. Whether it'
 
 ### Selected Research & Systems
 
-- **[Smartglasses Landscape 2026](https://flowsxr.com/smartglasses-guide)** — 53 devices, 15 SDKs, and what it means for developers
 - **[ZenFlow](https://flowsxr.com/zenflow)** — AI-powered immersive wellness through biofeedback-driven VR environments
 - **[SignFlow VR](https://flowsxr.com/signflow-vr)** — VR safety training for construction and industrial environments
 - **[StreetSync](https://flowsxr.com/streetsync)** — Augmented reality navigation for urban accessibility
